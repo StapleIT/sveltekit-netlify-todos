@@ -1,4 +1,4 @@
 [build]
     command = "npm run build"
     publich = "build/"
-    functions = "fucntions/"
+    functions = "functions/"
