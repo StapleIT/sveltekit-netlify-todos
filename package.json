@@ -26,6 +26,7 @@
     "dotenv": "^10.0.0",
     "kerberos":"^1.1.6",
     "mongodb": "^4.1.0",
+    "mongodb-client-encryption": "^1.2.6",
     "snappy": "^7.0.2"
   }
 }
