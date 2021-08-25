@@ -24,6 +24,7 @@
     "cookie": "^0.4.1",
     "dotenv": "^10.0.0",
     "kerberos":"^1.1.6",
-    "mongodb": "^4.1.0"
+    "mongodb": "^4.1.0",
+    "snappy": "^7.0.2"
   }
 }
