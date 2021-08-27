@@ -58,7 +58,7 @@
 
 <section>
 	<h1>
-		My TODO List App
+		TODO List
 	</h1>
 	<div>
 		<input type="text" placeholder="enter todo" bind:value={text}>
